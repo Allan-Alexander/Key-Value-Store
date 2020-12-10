@@ -1,6 +1,7 @@
 /**
  * By Allan Saji Alexander
  * Key-Value Store
+ * can be optimised along with TTL using "Oracle kvstore library" 
  */
 
 package com.store.keyvalue;
